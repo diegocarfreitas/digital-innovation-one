@@ -1,1 +1,1 @@
-# Projetos desenvolvidos durante os Bootcamps
+# Repositório dos projetos desenvolvidos durante os Bootcamps da DIO
